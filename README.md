@@ -8,6 +8,7 @@ You will practice using mathematics and Python in everyday tasks and learn how t
 ### Provided by JetBrains Academy
 This project is a part of the following tracks:
 Python CoreIntroduction to PythonIntroduction to Natural Language ProcessingFlask DeveloperSQL with PythonPracticing Algorithms with Python
+https://hyperskill.org/tracks/2
 
 ## Stage 1/4: Beginning : 
 ### Create a simple program that will print messages about loan calculations.
